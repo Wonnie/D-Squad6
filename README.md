@@ -1,2 +1,2 @@
-D-Squard6
+D-Squad6
 =========
