@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>grass_beta.png</file>
+        <file>path.png</file>
+        <file>basic_button_beta.png</file>
+        <file>hole.png</file>
+        <file>map2.txt</file>
+        <file>FireButton.png</file>
+        <file>QuickButton.png</file>
+        <file>WaveButton.png</file>
+        <file>FiringRateButton.png</file>
+        <file>PowerButton.png</file>
+        <file>RangeButton.png</file>
+        <file>SellButton.png</file>
+        <file>map1.txt</file>
+	<file>SuperButton.png</file>
+    </qresource>
+</RCC>
